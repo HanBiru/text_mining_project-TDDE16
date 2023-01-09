@@ -3,3 +3,8 @@ DATASETS/top10s.csv
 DATASETS/Spotify-2000.csv
 DATASETS/labeled_lyrics_cleaned.csv
 DATASETS/homemade/
+DATASETS/artist-data.csv
+DATASETS/lyrics-data.csv
+DATASETS/df_mining.csv
+DATASETS/artists-data.csv
+/DATASETS/
