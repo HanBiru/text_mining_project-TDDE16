@@ -1,1 +1,2 @@
-DATASETS/
+DATASETS/*
+!DATASETS/Project_dataset.csv
