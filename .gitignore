@@ -1,3 +1,5 @@
 DATASETS/*
 !DATASETS/Project_dataset.csv
 text_mining_env/
+
+Kaggle_runs/
