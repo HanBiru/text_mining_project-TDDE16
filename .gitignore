@@ -2,4 +2,6 @@ DATASETS/*
 !DATASETS/Project_dataset.csv
 text_mining_env/
 
-Kaggle_runs/
+Kaggle_runs/3_epochs/3_epochs.pth
+Kaggle_runs/7_epochs/7_epochs.pth
+Kaggle_runs/10_epochs/10_epochs.pth
